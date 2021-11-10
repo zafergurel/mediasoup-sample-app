@@ -13,7 +13,8 @@
     "mediasoup": "3",
     "mediasoup-client": "3",
     "socket.io": "^2.2.0",
-    "socket.io-client": "^2.2.0"
+    "socket.io-client": "^2.2.0",
+    "shelljs": "^0.8.3"
   },
   "devDependencies": {
     "requirejs": "^2.3.6"
